@@ -1,0 +1,978 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"temp",
+				"temp2"
+			],
+			[
+				"i",
+				"include"
+			],
+			[
+				"M",
+				"M_PI"
+			],
+			[
+				"lef",
+				"left_phase"
+			],
+			[
+				"arg",
+				"argc"
+			],
+			[
+				"pa",
+				"paNoError"
+			],
+			[
+				"nom",
+				"nomentree"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"fo",
+				"footer\t<footer>"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"te",
+				"text-shadow"
+			],
+			[
+				"animat",
+				"animation-duration"
+			],
+			[
+				"animation",
+				"animation-delay"
+			],
+			[
+				"anima",
+				"animation-name"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"an",
+				"animation-name"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"clip",
+				"clipy"
+			],
+			[
+				"cli",
+				"clipx"
+			],
+			[
+				"SDl",
+				"SDL_Delay"
+			],
+			[
+				"pr",
+				"printf\tprintf …"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"sz",
+				"szFileName"
+			],
+			[
+				"siz",
+				"sizeof"
+			],
+			[
+				"SDL_Render",
+				"SDL_RenderPresent"
+			],
+			[
+				"sdl",
+				"SDL_Delay"
+			],
+			[
+				"SDLR",
+				"SDL_RenderPresent"
+			],
+			[
+				"SDL",
+				"SDL_GetError"
+			],
+			[
+				"la",
+				"Largeur"
+			],
+			[
+				"SD",
+				"SDL_Delay"
+			],
+			[
+				"mas",
+				"masse"
+			],
+			[
+				"D",
+				"SDL_DestroyRenderer"
+			],
+			[
+				"taille",
+				"taille_struct"
+			],
+			[
+				"obj",
+				"objet"
+			],
+			[
+				"ma",
+				"malloc"
+			],
+			[
+				"me",
+				"mem_elem1"
+			],
+			[
+				"mem",
+				"mem_elem"
+			],
+			[
+				"SDL_G",
+				"SDL_GetError"
+			],
+			[
+				"aste",
+				"AsteSens"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"d",
+				"do\tDo While Loop"
+			],
+			[
+				"ren",
+				"SDL_RenderClear"
+			],
+			[
+				"no",
+				"nouveau"
+			],
+			[
+				"vi",
+				"vitesse_aste"
+			],
+			[
+				"ch",
+				"chrono_apparition_act"
+			],
+			[
+				"appa",
+				"chrono_apparition_prev"
+			],
+			[
+				"xpo",
+				"xPosAste"
+			],
+			[
+				"x",
+				"xPosAste"
+			],
+			[
+				"posi",
+				"position_Aste"
+			],
+			[
+				"position",
+				"position_Aste"
+			],
+			[
+				"p",
+				"position_vaisseau"
+			],
+			[
+				"poi",
+				"position_Aste"
+			],
+			[
+				"posit",
+				"position_Aste"
+			],
+			[
+				"posiion",
+				"position_Aste"
+			],
+			[
+				"ac",
+				"accelerationY"
+			],
+			[
+				"a",
+				"accelerationX"
+			],
+			[
+				"y",
+				"yprim"
+			],
+			[
+				"dis",
+				"distanceTOTALE"
+			],
+			[
+				"pos",
+				"posX"
+			],
+			[
+				"eve",
+				"evenement"
+			],
+			[
+				"SDL_WINDO",
+				"SDL_WINDOWEVENT_CLOSE"
+			],
+			[
+				"force",
+				"forceX"
+			],
+			[
+				"SDL_",
+				"SDL_RenderPresent"
+			],
+			[
+				"vite",
+				"vitesseX"
+			],
+			[
+				"vites",
+				"vitesseY"
+			],
+			[
+				"vitess",
+				"vitesseY"
+			],
+			[
+				"vitesse",
+				"vitesseX"
+			],
+			[
+				"dist",
+				"distanceTOTALE"
+			],
+			[
+				"distance",
+				"distanceTOTALE"
+			],
+			[
+				"dista",
+				"distanceTOTALE"
+			],
+			[
+				"acc",
+				"acceleration"
+			],
+			[
+				"dta",
+				"distanceX"
+			],
+			[
+				"masse",
+				"massetotale"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"SDL_D",
+				"SDL_DestroyTexture"
+			],
+			[
+				"vitesse_va",
+				"vitesse_vaisseau_x"
+			],
+			[
+				"textur",
+				"texture_aste"
+			],
+			[
+				"tai",
+				"taille_aste"
+			],
+			[
+				"yPos",
+				"yPosAste"
+			],
+			[
+				"tet",
+				"texture_aste"
+			],
+			[
+				"SDl_Re",
+				"SDL_RenderCopy"
+			],
+			[
+				"SDL_C",
+				"SDL_CreateTextureFromSurface"
+			],
+			[
+				"Te",
+				"Texture2"
+			],
+			[
+				"w",
+				"windows"
+			],
+			[
+				"hisn",
+				"hinstance"
+			],
+			[
+				"HWN",
+				"HWND"
+			],
+			[
+				"de",
+				"def\t#ifndef … #define … #endif"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"hea",
+				"header_rd"
+			],
+			[
+				"al",
+				"align-self"
+			],
+			[
+				"u",
+				"ul\t<ul>"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"su",
+				"sup\t<sup>"
+			],
+			[
+				"s",
+				"sup\t<sup>"
+			],
+			[
+				"algn",
+				"align-self"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"tr",
+				"tr\tTag"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"t",
+				"tr\t<tr>"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"font-",
+				"font-variant"
+			],
+			[
+				"re",
+				"repeat"
+			],
+			[
+				"b",
+				"background-repeat"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ti",
+				"title\t<title>"
+			],
+			[
+				"meta",
+				"http-equiv\tmeta"
+			],
+			[
+				"m",
+				"meta\t<meta name=\"\" content=\"\">"
+			],
+			[
+				"ht",
+				"html\thtml"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "rotation3D.c",
+			"settings":
+			{
+				"buffer_size": 5616,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "shapeinput.c",
+			"settings":
+			{
+				"buffer_size": 3145,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/My C.sublime-build",
+					""
+				],
+				[
+					"Packages/User/SDL.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/My C.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				"Clean"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Gutter",
+				"CSS3: Clear Gutter Marks"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #include <…>"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 189.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Haron/Desktop/Wireframe constructor"
+	],
+	"file_history":
+	[
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DR15.2900/portaudio/examples/paex_sine.c",
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DR14.1308/portaudio/examples/paex_sine.c",
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DR12.5651/portaudio/examples/paex_ocean_shore.c",
+		"/C/Users/Haron/AppData/Roaming/Sublime Text 3/Packages/User/OPUS.sublime-build",
+		"/C/Users/Haron/AppData/Roaming/Sublime Text 3/Packages/User/PortAudio.sublime-build",
+		"/C/MinGW/Opus/src/test.raw",
+		"/C/Users/Haron/Desktop/Documents/Programmation/opus-1.2.1/doc/trivial_example.c",
+		"/C/MinGW/SDL/lib/libSDL2.a",
+		"/C/MinGW/SDL/include/SDL_pixels.h",
+		"/C/Users/Haron/Desktop/site Marciano renov/src/CSS/pre.css",
+		"/C/Users/Haron/Desktop/site Marciano renov/src/HTML/pre.html",
+		"/C/Users/Haron/AppData/Roaming/Sublime Text 3/Installed Packages/auto-save.sublime-package",
+		"/C/Users/Haron/AppData/Roaming/Sublime Text 3/Packages/User/auto_save.autosave.sublime-settings",
+		"/C/Users/Haron/AppData/Roaming/Sublime Text 3/Packages/User/auto_save.sublime-settings",
+		"/C/Users/Haron/AppData/Roaming/Sublime Text 3/Packages/Browser Refresh/Default (Windows).sublime-keymap",
+		"/C/Users/Haron/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Program Files/Logitech Gaming Software/ArxApplets/Dota 2/applet_info.cfg",
+		"/C/Users/Haron/Desktop/yesman 3.txt",
+		"/C/Users/Haron/Desktop/yesman 2.txt",
+		"/C/Users/Haron/Desktop/test.shape.txt",
+		"/C/Users/Haron/Desktop/pitcher.obj",
+		"/C/Users/Haron/Desktop/test.shape",
+		"/C/Users/Haron/3D Objects/Sans titre.obj.fbx",
+		"/C/Users/Haron/3D Objects/Bulldozer.3mf",
+		"/C/Users/Haron/AppData/Roaming/Sublime Text 3/Packages/User/Monokai Soda.tmTheme",
+		"/C/MinGW/SDL/src/Grav6.5.1.c",
+		"/C/Program Files (x86)/Steam/steamapps/common/Age2HD/resources/_common/shaders/combineterrainsprite.fxo",
+		"/C/Zelda Breath Of The Wild/graphicPacks/BreathOfTheWild_1080p/rules.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Age2HD/resources/_common/ai/Constants/Military Constants.per",
+		"/C/Users/Haron/Desktop/Documents/GeoGebra/test.shape",
+		"/C/Users/Haron/Desktop/Wireframe constructor/openfolder.c",
+		"/C/Users/Haron/Desktop/Documents/Programmation/C/shell.c",
+		"/C/Users/Haron/Desktop/Wireframe constructor/backup/3.c",
+		"/C/Users/Haron/Desktop/Wireframe constructor/backup/4.c",
+		"/C/Users/Haron/Desktop/Wireframe constructor/backup/2.c",
+		"/C/MinGW/SDL/src/Grav7.c",
+		"/C/Users/Haron/Desktop/Wireframe constructor/backup/1.c",
+		"/C/Users/Haron/AppData/Roaming/Sublime Text 3/Packages/User/pour_projet_1.sublime-build",
+		"/C/Users/Haron/AppData/Roaming/Sublime Text 3/Packages/User/My C.sublime-build",
+		"/C/Users/Haron/Desktop/Documents/Programmation/C/shape/cube1.shape",
+		"/C/Users/Haron/Desktop/cube.shape",
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DR26.6384/SDL2-2.0.5/x86_64-w64-mingw32/include/SDL2/SDL.h",
+		"/C/Users/Haron/Desktop/Documents/Programmation/C/testecriture.c",
+		"/C/Users/Haron/Desktop/Documents/Programmation/Site Web/site/Grand II.html",
+		"/C/Users/Haron/Desktop/Documents/Programmation/Site Web/site/Conclusion.html",
+		"/C/MinGW/SDL/src/Frac.c",
+		"/C/MinGW/SDL/src/Fractale 2bis.c",
+		"/C/MinGW/SDL/src/Fractale 2.c",
+		"/C/MinGW/SDL/src/Fractale.c",
+		"/C/Users/Haron/Desktop/Documents/Programme C/PH.c",
+		"/C/SpaceEngine/data/music/context.cfg",
+		"/C/MinGW/SDL/src/Grav6.5.c",
+		"/C/MinGW/SDL/src/Grav6.4.c",
+		"/C/Users/Haron/Desktop/Documents/Programme C/megalol.c",
+		"/C/MinGW/SDL/src/SpaceRock.c",
+		"/C/MinGW/SDL/src/Grav6.c",
+		"/C/MinGW/SDL/src/tt.c",
+		"/C/MinGW/SDL/src/rotation3D.c",
+		"/C/MinGW/SDL/src/Grav6.3.c",
+		"/C/Users/Haron/Desktop/x264-snapshot-20170311-2245/COPYING",
+		"/C/Users/Haron/Desktop/x264-snapshot-20170311-2245/Makefile",
+		"/C/Users/Haron/Desktop/x264-snapshot-20170311-2245/x264.h",
+		"/C/Users/Haron/Desktop/x264-snapshot-20170311-2245/example.c",
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DI08.371/x264.c",
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DI00.268/example.c",
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DI00.833/Default.cfg",
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DI00.810/Default.cfg",
+		"/C/MinGW/SDL/src/rotation3D",
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DI00.526/Default.cfg",
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DI00.257/Default.cfg",
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DI00.170/Default.cfg",
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DI00.302/KexittModels.cfg",
+		"/C/Users/Haron/AppData/Roaming/Sublime Text 3/Packages/User/SDL.sublime-build",
+		"/C/Users/Haron/Desktop/src/Grav6.5.1.c",
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DI14.1030/Grav6.5.1.c",
+		"/C/MinGW/SDL/src/terraingen_mipostprocess.c",
+		"/C/MinGW/SDL/src/terraingen_process.c",
+		"/C/Users/Haron/Desktop/Documents/1/testecriture.c",
+		"/C/Users/Haron/Desktop/Documents/Programme C/ASCIIconverter.c",
+		"/C/MinGW/SDL/src/FractTest.c",
+		"/C/Users/Haron/Desktop/Documents/Programme C/testecriture.c",
+		"/C/MinGW/SDL/src/Grav6.2.c",
+		"/C/MinGW/SDL/src/Grav.c",
+		"/C/MinGW/SDL/src/Grav2.c",
+		"/C/MinGW/SDL/src/Grav3.c",
+		"/C/MinGW/SDL/src/Grav6.3 - Copie.c",
+		"/C/MinGW/SDL/src/Grav5.c",
+		"/C/Users/Haron/AppData/Local/Microsoft/Windows/INetCache/IE/C2WWP0WO/SYSTEM[1].VER",
+		"/C/Users/Haron/AppData/Local/Microsoft/Windows/INetCache/IE/ZPOYVB3B/YP-U3[1].LOG",
+		"/C/Users/Haron/AppData/Roaming/Skype/My Skype Received Files/test2.jvs",
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DI29.1947/Voekoevaka.cfg",
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DI29.3556/Default.cfg",
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DI29.1473/Astroniki.cfg",
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DI39.242/Bambusman.cfg",
+		"/C/MinGW/SDL/src/Grav4.c",
+		"/C/MinGW/SDL/src/Dessin test.c",
+		"/C/SpaceEngine/data/scripts/Example.sc",
+		"/C/MinGW/SDL/src/start.bat",
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DI00.913/Astroniki.cfg",
+		"/C/MinGW/SDL/src/terrain.c",
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DR05.558/_Chromatic Removal.pak",
+		"/F/Games/No Mans Sky/GAMEDATA/SHADERCACHE/SHADERS_ATMOSPHERE.SHADER.BIN_CLOUD_301",
+		"/C/Program Files (x86)/Steam/steamapps/common/Starbound/storage/starbound.config",
+		"/C/Users/Haron/Desktop/Downloads/starbound.CT",
+		"/C/SpaceEngine/config/main-def-fra.cfg",
+		"/C/Users/Haron/Desktop/Documents/Orbit test/Assets/Gravvv.cs",
+		"/C/MinGW/SDL/src/VictorSwitch.c",
+		"/C/Users/Haron/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/Haron/Desktop/Documents/Orbit test/Assets/Gravity.cs",
+		"/C/MinGW/SDL/src/Keyboard.c",
+		"/C/MinGW/SDL/src/mouvement test.c",
+		"/C/MinGW/SDL/src/image test.c",
+		"/C/MinGW/SDL/src/test.png",
+		"/C/MinGW/SDL/src/main.c",
+		"/C/Users/Haron/Desktop/gravitÃ©/Assets/Scripts/Gravity3.cs",
+		"/C/Users/Haron/Desktop/VictorFonction.c",
+		"/C/Users/Haron/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
+		"/C/MinGW/SDL/src/testaudiohotplug.c",
+		"/C/MinGW/SDL/src/lol.c",
+		"/C/MinGW/SDL/src/main2.c",
+		"/C/Users/Haron/AppData/Local/Temp/Rar$DR09.803/SDL2-2.0.4/test/testjoystick.c",
+		"/C/MinGW/SDL/src/yo.c",
+		"/C/MinGW/SDL/src/SDL2.dll",
+		"/C/Users/Haron/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Haron/AppData/Roaming/Sublime Text 3/Packages/auto-save/README.md",
+		"/C/Users/Haron/AppData/Roaming/Sublime Text 3/Packages/auto-save/auto_save.sublime-settings",
+		"/C/MinGW/SDL/src/test.c",
+		"/C/Users/Haron/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "rotation3D.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3292,
+								3292
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2599.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "shapeinput.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2646,
+								2646
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 133.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/pour_projet_1.sublime-build",
+	"project": "Wireframe Constructor.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
