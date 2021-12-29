@@ -12,4 +12,5 @@ I just trying to represent some 3D object with my own 3D file format
 
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/72145462/147700876-cab75209-1425-4d00-a870-4f58970326b4.gif)
+(FPS of the gif are not representative of the actual performance)
 
