@@ -9,5 +9,7 @@ My first 3D programming, open WC.EXE, select a shape file in the shape folder, o
 Basically the project was to create a wireframe rendering engine, where we could edit each point and line
 
 I just trying to represent some 3D object with my own 3D file format
-The issues with cube and pyramid are just a bad view value that I changed for the jar
-Otherwise it working
+
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/72145462/147700876-cab75209-1425-4d00-a870-4f58970326b4.gif)
+
